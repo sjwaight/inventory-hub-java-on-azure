@@ -3,11 +3,11 @@
     "contentVersion": "1.0.0.0",
     "parameters": {
         "namespace_name": {
-            "defaultValue": "inventory-eventhub-eastus-dev1",
+            "defaultValue": "inventory-eventhub-dev1",
             "type": "String"
         },
         "region_name": {
-            "defaultValue": "eastus",
+            "defaultValue": "westus2",
             "type": "String",
             "metadata": {
                 "description": "The location of the EventHub."
